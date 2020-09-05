@@ -1,0 +1,1 @@
+{"version":3,"sources":["home.module.css"],"names":[],"mappings":"AAAA,uBACE,aACF,CACA,mBACE,aAAiB,CACjB,cAAe,CACf,kBACF,CACA,eACE,cACF","file":"home-page.315d959f.chunk.css","sourcesContent":[".container {\r\n  margin: 0 auto;\r\n}\r\n.title {\r\n  color: blueviolet;\r\n  font-size: 40px;\r\n  margin-bottom: 30px;\r\n}\r\n.p {\r\n  font-size: 38px;\r\n}\r\n"]}
